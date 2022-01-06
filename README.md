@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+![jamiep9rk's github stats](https://github-readme-stats.vercel.app/api?username=jamiep9rk&show_icons=true)
+[![jamiep9rk's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jamiep9rk&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jamiep9rk)
