@@ -4,6 +4,7 @@
 ### 💌 E-Mail: jamiecaereer96@gmail.com
 ### 🗂 Portfolio: <a href="https://jamiep9rk.github.io/">Click</a>
 ### 🧾 Resume: <a href="https://terrific-cerise-671.notion.site/Park-Jeong-Hyun-5053e6758e2048b8849306074a728be9">Click</a>
+### ✏️ Blog: <a href="https://velog.io/@jamiep9rk">Click</a>
 <br/> 
 
 ### 💪 SKILLS
