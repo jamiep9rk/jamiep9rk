@@ -1,7 +1,7 @@
 ## Welcome onboard ✈️
 ### This is Jamie Park, Front-end Developer!
 
-#### 💌 E-Mail: jamiecaereer96@gmail.com
+#### 💌 E-Mail: jamiecareer96@gmail.com
 <br/> 
 
 ### 💪 SKILLS
